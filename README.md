@@ -4,7 +4,7 @@ This project is part of the Duke University Bass Connections research, focusing 
 
 ## Dataset Description
 
-The dataset consists of sound pressure level (SPL) measurements recorded at various altitudes using drone-mounted microphones. The data is gathered two audio text files collected and processed in 1/3 ocatave band by the microphone. This code utilizes two different vertical text files:
+The dataset consists of sound pressure level (SPL) measurements recorded at various altitudes. The data is gathered and processed in 1/3 ocatave bands by the microphone. This code utilizes two different vertical text files gathered from our initial drone flights:
 
 * 071124_1435_Ph4_A_V1_Audio_Text.txt
 
